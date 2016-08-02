@@ -1,2 +1,4 @@
-h1 {font-family: Helvetica; color: green;}
-p  {color: red;}
+h1 {font-family: Helvetica; color: green; border: 3px solid black; text-align: center; margin: 50px;}
+p  {color: red; font-size: 300%; padding: 130px;}
+body {background-color: powderblue;}
+#Title2 {color: black; font-family: Courier;}
